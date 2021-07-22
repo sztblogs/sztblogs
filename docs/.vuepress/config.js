@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/docs/",
   title: "云牧的个人博客",
   description: "My tech blog",
   port: "8080",
